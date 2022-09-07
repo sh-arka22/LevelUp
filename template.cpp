@@ -2,6 +2,8 @@
 /* By Arkajyoti Saha */
 #include<bits/stdc++.h>
 using namespace std;
+
+
 void file_i_o(){
 	#ifndef ONLINE_JUDGE
 	    freopen("input.txt", "r", stdin);
@@ -10,9 +12,17 @@ void file_i_o(){
 }
 //######################################################################################################################################################################
 
-int main(){
-    file_i_o();
-    int number;
-    cin>>number;
-    cout<<"number="<<number<<endl;
+
+
+
+
+int32_t main(int32_t argc, char const *argv[]) {
+ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
+	file_i_o();
+	// START //
+    
+
+    
+	return 0;
 }
