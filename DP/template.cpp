@@ -15,7 +15,6 @@ void file_i_o(){
 
 
 
-
 int32_t main(int32_t argc, char const *argv[]) {
 ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
